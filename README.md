@@ -1,0 +1,2 @@
+# Tamagochi
+Educational project 
